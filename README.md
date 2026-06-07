@@ -52,7 +52,7 @@
 ### 📫 Контакты
 
 - GitHub: [@Ratmir26](https://github.com/Ratmir26)
-- Telegram: (добавь свой @username)
+- Telegram: @Ratmir2603
 
 ---
 

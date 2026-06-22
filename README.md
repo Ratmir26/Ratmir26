@@ -1,8 +1,8 @@
 ## 👋 Привет, я Ratmir
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=false&vCenter=true&width=550&lines=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;Telegram+%D0%B1%D0%BE%D1%82%D1%8B;%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F;Frontend+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;Backend+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;Fullstack+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;API+%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F;Django+%2F+FastAPI;Docker+%D0%BE%D1%80%D0%BA%D0%B5%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=false&vCenter=true&width=550&lines=Python+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;Telegram+%D0%B1%D0%BE%D1%82%D1%8B;%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F;OSINT+%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B;Backend+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;API+%D0%B8%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F;Django+%2F+FastAPI)](https://git.io/typing-svg)
 
-Начинающий разработчик. Интересуюсь автоматизацией, Telegram-ботами, веб-разработкой и нестандартными проектами.
+Начинающий разработчик. Интересуюсь OSINT, Telegram-ботами, веб-разработкой и автоматизацией.
 
 ---
 
@@ -28,32 +28,36 @@
 
 | Репозиторий | Описание |
 |-------------|----------|
+| [`OSINT_Agent`](https://github.com/Ratmir26/OSINT_Agent) | OSINT-агент для сбора и анализа данных |
+| [`OSINT_Web_UI`](https://github.com/Ratmir26/OSINT_Web_UI) | Веб-интерфейс для OSINT-инструментов |
+| [`TG_OSINT_Bot`](https://github.com/Ratmir26/TG_OSINT_Bot) | Telegram-бот для OSINT-разведки |
 | [`Startup_tg`](https://github.com/Ratmir26/Startup_tg) | Telegram-бот для стартапа |
 | [`Notion_Sa1lo_Ratmir`](https://github.com/Ratmir26/Notion_Sa1lo_Ratmir) | Интеграция с Notion API |
-| [`infoDash`](https://github.com/urmat26/infoDash) | Информационная панель / дашборд |
 | [`Startup_Studio`](https://github.com/Ratmir26/Startup_Studio) | Проект стартап-студии |
-| [`school_shop`](https://github.com/urmat26/school_shop) | Интернет-магазин для школы |
-| [`Colorful-Calculator`](https://github.com/Ratmir26/Colorful-Calculator) | Калькулятор с цветным интерфейсом |
+| [`Cinemagic`](https://github.com/Ratmir26/Cinemagic) | Проект про кино / кинематограф |
+| [`crm`](https://github.com/Ratmir26/crm) | CRM-система |
 | [`Caring-for-quails`](https://github.com/Ratmir26/Caring-for-quails) | Система ухода за перепелами |
+| [`Colorful-Calculator`](https://github.com/Ratmir26/Colorful-Calculator) | Калькулятор с цветным интерфейсом |
 | [`car`](https://github.com/Ratmir26/car) | Проект про автомобили |
+| [`project`](https://github.com/Ratmir26/project) | Учебный проект |
 | [`Ratmir`](https://github.com/Ratmir26/Ratmir) | Экспериментальный репозиторий |
 
 ---
 
 ### 📊 Статистика
 
-📈 **Всего репозиториев:** 9  
+📈 **Всего репозиториев:** 13 (моих)  
 🐍 **Основной язык:** Python  
-🤖 **Telegram-боты + API-интеграции** — моё направление  
-🌟 **Самый необычный проект:** Caring-for-quails (перепелы! 🐦)
+🕵️ **Основное направление:** OSINT + Telegram-боты  
+🧠 **Изучаю:** API-интеграции, веб-разработку, автоматизацию
 
 ---
 
 ### 📫 Контакты
 
 - GitHub: [@Ratmir26](https://github.com/Ratmir26)
-- Telegram: @Ratmir2603
+- Telegram: (добавь свой @username)
 
 ---
 
-> ⚡ Интересуюсь всем, что связано с автоматизацией, ботами и полезными веб-сервисами.
+> ⚡ Разрабатываю OSINT-инструменты, Telegram-ботов и полезные веб-сервисы.

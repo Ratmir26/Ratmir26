@@ -56,7 +56,7 @@
 ### 📫 Контакты
 
 - GitHub: [@Ratmir26](https://github.com/Ratmir26)
-- Telegram: (добавь свой @username)
+- Telegram: [@Ratmir2603](https://t.me/ratmir2603)
 
 ---
 
